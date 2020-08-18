@@ -1,4 +1,4 @@
 # Emi_Calculator
 
-This is Android App for calculate Emi[Equated Monthly Instalment].
+This is a small android App for calculate Emi[Equated Monthly Installment].
 
